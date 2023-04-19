@@ -1,10 +1,10 @@
 # gppt
-##dc (DataCollect)
+##DC (DataCollect)
 
-##kg (KnowledgeGraph)
+##KG (KnowledgeGraph)
 
-##rs (RecommendationSystem)
+##RS (RecommendationSystem)
 
-##te (TradeExecution)
+##TE (TradeExecution)
 
 ## 
